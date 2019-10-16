@@ -1,8 +1,7 @@
 ### Pandas, Pandas, Pandas
 Heroes of Pymoli
 
-![Fantasy](Images/Fantasy.jpg)
-Analyzing the data for fantasy game, Heroes of Pymoli using python and the pandas library. Generated a report that breaks down the game's purchasing data into meaningful insights.
+Analyzed the data for fantasy game, Heroes of Pymoli using python and the pandas library. Generated a report that breaks down the game's purchasing data into meaningful insights.
 
 Final report includes:
 
